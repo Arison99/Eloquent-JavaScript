@@ -1,0 +1,11 @@
+{
+  "name": "eloquent-javascript",
+  "version": "1.0.0",
+  "description": "The code contained in here was copied from Eloquent JavaScript by Marijn Haverbeke for my personal practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
